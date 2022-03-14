@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/padhakku-marketing/static/css/main.d84342e1.css",
+    "main.js": "/padhakku-marketing/static/js/main.c3fe4168.js",
+    "static/js/787.6edb8b43.chunk.js": "/padhakku-marketing/static/js/787.6edb8b43.chunk.js",
+    "index.html": "/padhakku-marketing/index.html",
+    "main.d84342e1.css.map": "/padhakku-marketing/static/css/main.d84342e1.css.map",
+    "main.c3fe4168.js.map": "/padhakku-marketing/static/js/main.c3fe4168.js.map",
+    "787.6edb8b43.chunk.js.map": "/padhakku-marketing/static/js/787.6edb8b43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d84342e1.css",
+    "static/js/main.c3fe4168.js"
+  ]
+}
